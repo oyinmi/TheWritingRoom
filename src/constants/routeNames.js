@@ -1,0 +1,10 @@
+export const SIGNIN = 'Signin';
+export const CREATEACCOUNT= 'CreateAccount';
+export const HOME = 'Home';
+export const PROFILE = 'Profile';
+export const HOMENAVIGATION = 'HomeNavigation';
+export const WRITEARTICLE = 'Write';
+export const MYPOST = 'My Post';
+export const UPDATEPOST = 'Update Post';
+export const EDITPOST = 'Edit Post';
+export const VIEWARTICLE = 'View Post';
